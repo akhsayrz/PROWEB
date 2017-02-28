@@ -1,0 +1,116 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Curriculum Vitae</title>
+</head>
+
+  <body bg background ="https://www.clipartsgram.com/image/258766685-background-powerpoint-2007-9.jpg">
+  <body bgcolor =afeeee>
+  
+  <p><center>
+    <tr>
+     
+        <font face="Old English Text MT" size="5"><h2>Curriculum Vitae</h2></td>
+      </font>
+     
+    </tr>
+    <tr align="right" valign="top">
+      <td>Akhsay Priyagung Nurcahyadi <br /> 
+      Institut Teknologi Kalimantan <br /> 
+      10151005@itk.ac.id <br /> 
+      (+62)-823-5881-7733 </td>
+    </tr>
+  </table>
+
+  <table align="center" width="40%">
+    
+    <tr>
+      <th colspan="2" align="left" height="40"><font face="Old English Text MT" size="5"><h4>Biodata</h4></font></th>
+    </tr>
+    <tr>
+      <td>Tanggal Lahir :</td>
+      <td>6 November 1996
+      </td>
+    </tr>
+    
+    <tr>
+      <td>Tempat Lahir :</td>
+      <td>SMP Negeri 1 Bontang, Kalimantan Timur
+      </td>
+    </tr>
+    
+    <tr>
+      <td>Kenis Kelamin :</td>
+      <td>SMA Negeri 1 Bontang, Kalimantan Timur
+      </td>
+    </tr>
+    
+    <tr>
+      <td>Kewarganegaraan:</td>
+      <td>Indonesia
+      </td>
+    </tr>
+    
+    
+    
+    <tr>
+      <th colspan="2" align="left" height="40"><font face="Old English Text MT" size="5"><h4>Pendidikan</h4></font></th>
+    </tr> 
+    <tr>
+      <td>2003 - 2009</td>
+      <td>SD Negeri 008 Bontang, Kalimantan Timur
+      </td>
+    </tr>
+    
+    <tr>
+      <td>2010 - 2012</td>
+      <td>SMP Negeri 1 Bontang, Kalimantan Timur
+      </td>
+    </tr>
+    
+    <tr>
+      <td>2013 - 2015</td>
+      <td>SMA Negeri 1 Bontang, Kalimantan Timur
+        <br />
+      </td>
+    </tr>
+
+	 <tr>
+      <td>2015 - Sekarang</td>
+      <td>Institut Teknologi Kalimantan
+        <br />
+      </td>
+    </tr>
+    
+    
+
+    <tr>
+      <th colspan="2" align="left" height="40"><font face="Old English Text MT" size="5"><h4>Kemampuan</h4></font></th>
+    </tr>
+    <tr>
+    
+    
+    <td colspan="2"><li>Languages: Indonesian, English</li>
+      	</td>
+    	</tr>
+    	</li>
+        
+        
+    <tr>
+      <td colspan="2"><li>Skill: Strategizing, Planning</li>
+      </td>
+    </tr>
+
+    <tr>
+      <th colspan="2" align="left" height="40"><font face="Old English Text MT" size="5"></h5>Hobby</h5></font></th>
+    </tr>
+    <tr>
+      <td colspan="2">
+       
+         <li> Gaming</br></li>
+         <li> Planning</li></li>
+       
+    </tr>
+  </table>
+</body>
